@@ -1,0 +1,16 @@
+.dashboard{
+    width: 100%;
+}
+.left-dashboard{
+    height: 100vh;
+    background-color: #8b949e;
+}
+.right-dashboard{
+    height: 56vh;
+    margin-top: 70px;
+}
+.table{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
